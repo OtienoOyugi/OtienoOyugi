@@ -1,9 +1,5 @@
  ## Hello There
-- my name is Noah Oyugi.
-- 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Dta Science using Python programming Language.
-- 💞️ I’m looking to collaborate on any project related to Big Data Analytics
-- 📫 Reach me via email at oyugi.n@yahoo.com
+   My name is Noah Oyugi and welcome to my github Page
 
 <!---
 OtienoOyugi/OtienoOyugi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
