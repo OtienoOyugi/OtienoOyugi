@@ -1,4 +1,4 @@
-- ## Hello There
+ ## Hello There
 - my name is Noah Oyugi.
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning Dta Science using Python programming Language.
